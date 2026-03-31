@@ -1,4 +1,4 @@
-# 🤖 CloudBot-Termux
+# 🤖 ClawdBot-Termux
 
 **Turn your Android phone into an AI-powered assistant — controlled entirely through Telegram.**
 
